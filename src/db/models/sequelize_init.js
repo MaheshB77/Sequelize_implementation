@@ -17,6 +17,5 @@ const LivianoRooms = LivianoRoomsModel(SequelizeDB, Sequelize);
 
 module.exports = {
     SequelizeDB,
-    LivianoRooms,
-    StudentModel
+    LivianoRooms
 };
